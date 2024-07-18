@@ -1,6 +1,6 @@
 # Sidebar Website
 
-This is a simple side website that displays.
+This is a simple site designed to practice the construction and logic of a sidebar.
 
 ## Features
 
